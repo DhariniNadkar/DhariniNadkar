@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dnadkar02@gmail.com**
 
-- ⚡ Fun fact is **by combining my data analysis and web development talents, I can integrate data analysis dashboards into customised websites.**
+- ⚡ Fun fact is **by combining my Data Analysis and Web Development talents, I can integrate data analysis dashboards into customised websites.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
