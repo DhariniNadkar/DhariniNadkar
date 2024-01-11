@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dharini Nadkar</h1>
-<h3 align="center">A passionate about leveraging data to drive meaningful insights and make informed decisions</h3>
+<h3 align="center">A passionate about delivery of high-quality software products</h3>
 
-- 🌱 I’m currently upgrade **Data Science skills**
+- 🌱 I’m currently upgrade **Software Development skills**
 
-- 💬 Ask me about **Data Analysis, Data Visualization, Web Development**
+- 💬 Ask me about **Data Analysis, Web Development, Programming, QA Testing Fundamentals**
 
 - 📫 How to reach me **dnadkar02@gmail.com**
 
-- ⚡ Fun fact is **by combining my Data Analysis and Web Development talents, I can integrate data analysis dashboards into customised websites.**
+- ⚡ Fun fact is **by combining my Data Analysis and Web Development, Testing talents, I can integrate data analysis dashboards into customised websites with Quality Assuarance.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/dharini-nadkar-08b64716b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dharini-nadkar-08b64716b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/dharini-nadkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dharini-nadkar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
